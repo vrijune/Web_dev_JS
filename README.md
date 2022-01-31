@@ -14,7 +14,6 @@ Looking at the JS file, we can see that it's supposed to count the number of `<p
    ```text
 
 
-
    ```
    
 2. Now, try moving the `<script>` tag to the page `<head>`, at the location marked *Alternative script position one*. Once this is done, reload the page in the browser. Is there any difference in the output? Why / why not?
